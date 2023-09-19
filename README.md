@@ -22,15 +22,15 @@ O projeto foi feito com a principal funcionalidade de aprendermos a usar o Boots
 
 ## Tecnologias ultilizadas 
 
- * VS Code(Visual Code)
+ * ``VS Code(Visual Code)``
 
- * Bootstrap
+ * ``Github``
 
- * Github
+ * ``HTML``
 
- * HTML
-
- * CSS
+ * ``CSS``
+ 
+ * ``JSS``
 
 ## Fontes consultadas 
 Leonardo Rocha 
