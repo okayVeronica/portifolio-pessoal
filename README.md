@@ -22,7 +22,7 @@ O projeto foi feito com a principal funcionalidade de aprendermos a usar o Boots
 
 ## Tecnologias ultilizadas 
 
-* VS Code(Visual Code)
+ * VS Code(Visual Code)
 
  * Bootstrap
 
@@ -33,7 +33,8 @@ O projeto foi feito com a principal funcionalidade de aprendermos a usar o Boots
  * CSS
 
 ## Fontes consultadas 
+Leonardo Rocha 
+ChatGPT
 
 ## Autores 
-* Veronica Borges
-image.png 
+Veronica Borges
